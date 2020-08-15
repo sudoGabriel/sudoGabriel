@@ -8,6 +8,8 @@
 |--------|--------|---------|--------|
 | 4 anos | 1 ano  |  1 ano  | 2 anos |
 
+**Observação: Eu também trabalho com pentest, tenho 2 anos de experiência.**
+
 **📆 Metas**
 
 - [x] Aprender mais
