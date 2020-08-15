@@ -1,8 +1,8 @@
-### 👋🏼 Hey
+### 👋 Hey
 
-**Oi, Meu nome é Gabriel, é um prazer recebê-lo em meu perfil! 😁**
+**😁 Oi, Meu nome é Gabriel, tenho 18 anos e é um prazer recebê-lo em meu perfil!**
 
-**🇧🇷 Minhas skill's**
+**🇧🇷 Minhas skill's**x
 
 |  PHP   | Nodejs | Reactjs | Python |
 |--------|--------|---------|--------|
@@ -12,4 +12,6 @@
 
 - [x] Aprender mais
 - [x] Entrar em um projeto
-- [] 404
+- [x] 404
+
+**🌐 Portfólio:** Em construção
