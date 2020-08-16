@@ -4,9 +4,9 @@
 
 **🇧🇷 Minhas skill's**
 
-|  PHP   | Nodejs | Reactjs | Python |
-|--------|--------|---------|--------|
-| 4 anos | 1 ano  |  1 ano  | 2 anos |
+|  PHP   | Nodejs | Reactjs | Python | Javascript |
+|--------|--------|---------|--------|------------|
+| 4 anos | 1 ano  |  1 ano  | 2 anos |   2 anos   |
 
 **Observação: Eu também trabalho com pentest, tenho 2 anos de experiência.**
 
