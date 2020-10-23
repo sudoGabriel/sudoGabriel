@@ -4,14 +4,14 @@
 
 |  PHP   | Nodejs | Reactjs | Python | Javascript |
 |--------|--------|---------|--------|------------|
-| 4 anos | 1 ano  |  1 ano  | 2 anos |   2 anos   |
+| 4 anos | 2 ano  |  2 ano  | 3 anos |   3 anos   |
 
 **Observação: Eu também trabalho com pentest, tenho 2 anos de experiência.**
 
 **📆 Metas**
 
-- [x] Aprender mais
-- [x] Entrar em um projeto
+- [OK] Aprender mais
+- [OK] Entrar em um projeto (fui kickado kkkk)
 - [x] 404
 
 **🌐 Portfólio:** Em construção
