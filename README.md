@@ -1,10 +1,14 @@
-**😁 Oi, Meu nome é Gabriel, tenho 18 anos e é um prazer recebê-lo em meu perfil!**
+**😁 Hi, My name is Gabriel, I'm 18 years old and it's a pleasure to welcome you to my profile!**
 
-**🇧🇷 Minhas skill's**
+**🇧🇷 My skill's**
 
 |  PHP   | Nodejs | Reactjs | Python | Javascript |
 |--------|--------|---------|--------|------------|
-| 4 anos | 2 ano  |  2 ano  | 3 anos |   3 anos   |
+| 4 years| 2 years|  2 years| 3 anos |   3 anos   |
+
+|  C++   |   C#   |    Go   |
+|--------|--------|---------|
+|  1 ano | 1 ano  |  Newbie |
 
 **Observação: Eu também trabalho com pentest, tenho 2 anos de experiência.**
 
