@@ -2,15 +2,15 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sudogabriel&theme=dracula&show_icons=true)
 
-**🇧🇷 My skill's**
+**My skill's**
 
 |  PHP   | Nodejs | Reactjs | Python | Javascript |
 |--------|--------|---------|--------|------------|
-| 4 years| 2 years|  2 years| 3 years|   3 years  |
+| 4 years| 3 years|  3 years| 3 years|   3 years  |
 
 |  C++   |   C#   |    Go   |
 |--------|--------|---------|
-|  1 year| 1 year |  Newbie |
+|  2 year| 2 year |  Newbie |
 
 **Note: I also work with pentest, I have 2 years of experience.**
 
