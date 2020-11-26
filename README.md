@@ -1,6 +1,6 @@
 **😁 Hi, My name is Gabriel, I'm 18 years old and it's a pleasure to welcome you to my profile!**
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sudogabriel&theme=dracula&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=faintzy&theme=dracula&show_icons=true)
 
 **My skill's**
 
