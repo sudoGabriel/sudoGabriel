@@ -7,7 +7,7 @@
 
 <img align="right" src="icon.png" width="400">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=faintzy&theme=radical&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=faintzy&theme=radical&layout=compact&show_icons=true)
 
 **My skill's**
 
