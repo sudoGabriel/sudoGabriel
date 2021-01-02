@@ -9,7 +9,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=faintzy&theme=radical&show_icons=true)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Faintzy&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Faintzy&layout=compact&theme=radical)
 
 **My skill's**
 
