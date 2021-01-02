@@ -7,6 +7,8 @@
   I am studying System and System Development for Internet and Kernel Drive Development with C++.
 </p>
 
+> I have 4 years of experience with the languages below.
+
 <p align="left">
   🦄 Skills: <strong>PHP, React, Electron, JavaScript, Nodejs, Python, HTML5, CSS3 and Bootstrap.</strong>
 </p>
