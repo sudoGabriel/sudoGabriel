@@ -6,6 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gabrielmrts@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmrts@yahoo.com)](mailto:gabrielmrts@yahoo.com)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=faintzy&theme=radical&layout=compact&show_icons=true)
+
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabizinha12&layout=compact&theme=radical)
 
 **My skill's**
