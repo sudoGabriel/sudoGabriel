@@ -3,7 +3,7 @@
 **😁 Hi, My name is Gabriel, I'm 18 years old and it's a pleasure to welcome you to my profile!**
 
 <p align="left"> 
-  I am <strong>FullStack Developer</strong> and <strong>Ethical Hacker (Working on hackerone.com</strong>.<br>
+  I am <strong>FullStack Developer</strong> and <strong>Ethical Hacker (Working on hackerone.com)</strong>.<br>
   I am studying System and System Development for Internet and Kernel Drive Development with C++.
 </p>
 
