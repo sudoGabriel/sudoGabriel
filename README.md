@@ -10,7 +10,11 @@
 > I have 4 years of experience with the languages below.
 
 <p align="left">
-  🦄 Skills: <strong>PHP, React, Electron, JavaScript, Nodejs, Python, HTML5, CSS3 and Bootstrap.</strong>
+  :heart: Main Stack: <strong>MERN (MongoDB, Express, React, Nodejs)</strong>
+</p>
+
+<p align="left">
+  🦄 Skills: <strong>React, Nodejs, PHP, JavaScript, Electron, Python, HTML5, CSS3 and Bootstrap.</strong>
 </p>
 
 <p align="left">
