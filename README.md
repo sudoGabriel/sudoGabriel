@@ -3,18 +3,18 @@
 **😁 Hi, My name is Gabriel, I'm 18 years old and it's a pleasure to welcome you to my profile!**
 
 <p align="left"> 
-  I am <strong>FullStack Developer</strong> and <strong>Bug Hunter (Working on hackerone.com)</strong>.<br>
-  I am studying System and System Development for Internet and Kernel Drive Development with C++.
+  I am <strong>FullStack Developer.</strong><br>
+  I am studying Mobile Development with React Native.
 </p>
 
-> I have 4 years of experience with the languages below.
+> I have 4 years of experience with the items below.
 
 <p align="left">
   :heart: Main Stack: <strong>MERN (MongoDB, Express, React, Nodejs)</strong>
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>React, Nodejs, PHP, JavaScript, Electron, Python, HTML5, CSS3 and Bootstrap.</strong>
+  🦄 Skills: <strong>React, Nodejs, PHP, JavaScript, React Native, Python, HTML5, CSS3 and Bootstrap.</strong>
 </p>
 
 <p align="left">
